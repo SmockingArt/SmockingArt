@@ -1,13 +1,13 @@
 # Hi there 👋
 
-🚧 Work in progress 🚧
+# 🚧 Work in progress 🚧
 
-#🍜 👺
+**@SmockingArt** 👺
 
 # ᕦ(ò_óˇ)ᕤ (╯°□°）╯︵ ┻━┻
 
 <!--
-**@SmockingArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**@SmockingArt** 👺 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 🍜
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Skills 🍜 
