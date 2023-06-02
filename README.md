@@ -15,7 +15,7 @@
 - Vous trouverez sur mon GitHub plusieurs projets liés à mes centres d'intérêt. N'hésitez pas à les consulter, à les utiliser et à me faire part de vos commentaires. 
 Mes projet
 
-## 🌐🔗 Connect with me 📬
+## 🌐 Connect with me 📬
 
 - 📧 Email: 
 - 🐦 Twitter
