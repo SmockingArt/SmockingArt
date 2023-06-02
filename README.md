@@ -8,12 +8,11 @@
 
 ## 🍜 Mes passions 🍜
 
-- Je suis un apprentie développeur passionné par la culture japonaise et son influence sur la technologie moderne.
+ - Web3 and its ecosystem is a fast-evolving technology that opens up a wide range of possibilities in different fields. As an apprentice in the Web3 world, I keep abreast of trends and prospects in this technology, and actively apply my knowledge through real-world projects. I'm committed to continuous learning and strive to deepen my Web3 skills every day.
 
 ## 🏗️ Mes projets 🏗️ (╯°□°）╯︵ ┻━┻
 
-- Vous trouverez sur mon GitHub plusieurs projets liés à mes centres d'intérêt. N'hésitez pas à les consulter, à les utiliser et à me faire part de vos commentaires. 
-Mes projet
+- Obsidian 
 
 ## 🌐 Connect with me 📬
 
@@ -27,7 +26,5 @@ Smockingart#7330
 
 ## 💻 Skills 💻 ᕦ(ò_óˇ)ᕤ
 
-- Compétence 1
-- Compétence 2
-- Compétence 3
-- Compétence 4
+
+# 🚦🚧 Workd in progress
