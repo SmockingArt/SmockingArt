@@ -1,4 +1,4 @@
-## <div align="center">[⚡ SmockingArt ⚡](https://github.com/smockingart)</div>
+<div align="center">[⚡ SmockingArt ⚡](https://github.com/smockingart)</div>
 
 <div align="center">
   <img src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/Gunnm_banner.jpg" height="300" width="2000" alt="Cyberpunk Banner">
