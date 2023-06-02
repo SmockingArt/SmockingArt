@@ -1,7 +1,7 @@
 ## <div align="center">[⚡ SmockingArt ⚡](https://github.com/smockingart)</div>
 
 <div align="center">
-  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/4cdd967b8ba0d13fbb8af0026a40c91d.jpg" height="400" width="4000" alt="Cyberpunk Banner">
+  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/4cdd967b8ba0d13fbb8af0026a40c91d.jpg" height="666" width="2000" alt="Cyberpunk Banner">
 </div>
 
 ---
