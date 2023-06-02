@@ -21,15 +21,20 @@
  
 ## <div align="left">📡 Connect with me 📡</div>
 
+<div>
+  
 <a href="https://www.linkedin.com/in/smocking-art-5a2505254/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smocking-art-5a2505254/" height="30" width="40" /></a> 
 
-  🛰️
-  
+</div>
+<div>
+   
 <img align="right" src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/kisspng-shadowrun-cyberpunk-2020-helicopter-dragon-5b2d947b3e19d4.0915351015297137872544.png" height="130" width="200" alt="Helicopter">
 
+</div>
+<br />
   
 ## <div align="left">💻 Skills 💻</div>
-
+<br />
 <table>
 <tr>
 <td>
