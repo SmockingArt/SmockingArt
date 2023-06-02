@@ -29,6 +29,10 @@
 
 ## <div align="center">💻 Skills 💻</div>
 
+<div align="left">
+  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/Gunnm_banner.jpg" height="622" width="1111" alt="Cyberpunk Banner">
+</div>
+
 ᕦ(ò_óˇ)ᕤ
 | 💾 | 📡 | 🕹️ | 🌐 | 
 | ---- | ---- | ---- | ---- |
