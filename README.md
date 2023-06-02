@@ -19,8 +19,6 @@ Mes projet
 
 <a href="https://www.linkedin.com/in/smocking-art-5a2505254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smocking-art-5a2505254/" height="30" width="40" /></a>
 
-![Discord Logo|100](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)
-
 ## 💻 Skills 💻 ᕦ(ò_óˇ)ᕤ
 
 - Compétence 1
