@@ -6,9 +6,12 @@
 
 ---
 
-## 🚀 My passions 🚀
+## <div align="center">[🚀 My passions 🚀]</div>
 
  - Web3 and its ecosystem is a fast-evolving technology that opens up a wide range of possibilities in different fields. As an apprentice in the Web3 world, I keep abreast of trends and prospects in this technology, and actively apply my knowledge through real-world projects. I'm committed to continuous learning and strive to deepen my Web3 skills every day.
+
+---
+
 
 ## 🏗️ My projects 🏗️ (╯°□°）╯︵ ┻━┻
 
