@@ -12,8 +12,9 @@
 
 ---
 
-## <div align="center">🏗️ My projects 🏗️ (╯°□°）╯︵ ┻━┻</div>
+## <div align="center">🏗️ My projects 🏗️</div>
 
+(╯°□°）╯︵ ┻━┻
 
 | [🚧📘 Sommaire](#) | [🚧💻 Code](#) | [🚧💎 Obsidian](#) | [🎓 Self-Learning](https://github.com/SmockingArt/Self-Learning) | [📕 Book](https://github.com/SmockingArt/Book) | [🗂️ Archive](https://github.com/SmockingArt/Archive)
 | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -26,8 +27,9 @@
 
 ---
 
-## <div align="center">💻 Skills 💻 ᕦ(ò_óˇ)ᕤ</div>
+## <div align="center">💻 Skills 💻</div>
 
+ᕦ(ò_óˇ)ᕤ
 | 💾 | 📡 | 🕹️ | 🌐 | 
 | ---- | ---- | ---- | ---- |
 | 🚀 | 💽 | 🎛️ | 🖥️ |
