@@ -27,6 +27,12 @@
 
 ## <div align="center">💻 Skills 💻 ᕦ(ò_óˇ)ᕤ</div>
 
+## Compétences 
+
+| Compétence | Compétence 2 | Compétence 3 | Compétence 4 |
+| ----------- | ----------- | ----------- | ----------- |
+| Description de la compétence 1 | Description de la compétence 2 | Description de la compétence 3 | Description de la compétence 4 |
+
 ---
 
 <div align="center">
