@@ -33,10 +33,19 @@
   <img src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/Competence3.0.png" height="155" width="277" alt="Cyberpunk Banner">
 </div>
 
+<table>
+<tr>
+<td>
+  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/Competence3.0.png" height="155" width="277" alt="Cyberpunk Banner">
+</td>
+<td>
 ᕦ(ò_óˇ)ᕤ
 | 💾 | 📡 | 🕹️ | 🌐 | 
 | ---- | ---- | ---- | ---- |
 | 🚀 | 💽 | 🎛️ | 🖥️ |
+</td>
+</tr>
+</table>
 
 ---
 
