@@ -1,12 +1,12 @@
-# Welcome to my GitHub profile 🌸
+## <div align="center">[⚡ SmockingArt ⚡](https://github.com/smockingart)</div>
 
-![Banner](https://example.com/background.jpg)
+<div align="center">
+  <img src="https://yourimageurl.com" alt="Cyberpunk Banner">
+</div>
 
-## 🌟 About me 🌟
+---
 
-**@SmockingArt** 👺Francais 
-
-## 🍜 My passions🍜
+## 🚀 My passions 🚀
 
  - Web3 and its ecosystem is a fast-evolving technology that opens up a wide range of possibilities in different fields. As an apprentice in the Web3 world, I keep abreast of trends and prospects in this technology, and actively apply my knowledge through real-world projects. I'm committed to continuous learning and strive to deepen my Web3 skills every day.
 
@@ -14,7 +14,7 @@
 
 - Obsidian 
 
-## 🌐 Connect with me 📬
+## 📡 Connect with me 📡
 
 📬 @mail : 
 
@@ -27,4 +27,4 @@ Smockingart#7330
 ## 💻 Skills 💻 ᕦ(ò_óˇ)ᕤ
 
 
-# 🚦🚧 Workd in progress
+  ### ⚡ Pénétrez dans la Matrice ⚡
