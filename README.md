@@ -1,7 +1,7 @@
 ## <div align="center">[⚡ SmockingArt ⚡](https://github.com/smockingart)</div>
 
 <div align="center">
-  <img src="[https://yourimageurl.com](https://github.com/SmockingArt/SmockingArt/blob/main/4cdd967b8ba0d13fbb8af0026a40c91d.jpg)" alt="Cyberpunk Banner">
+  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/4cdd967b8ba0d13fbb8af0026a40c91d.jpg" alt="Cyberpunk Banner">
 </div>
 
 ---
