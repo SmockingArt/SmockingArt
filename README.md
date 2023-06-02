@@ -15,7 +15,7 @@
 ## <div align="center">🏗️ My projects 🏗️ (╯°□°）╯︵ ┻━┻</div>
 
 
-| [📘 Sommaire](#) | [💻 Code](#) | [💎 Obsidian](#)[Code](#) | [🎓 Self-Learning](#) | [📕 Book](#) | [🗂️ Archive](#)
+| [🚧📘 Sommaire](#) | [🚧💻 Code](#) | [🚧💎 Obsidian](#) | [🎓 Self-Learning](https://github.com/SmockingArt/Self-Learning) | [📕 Book](https://github.com/SmockingArt/Book) | [🗂️ Archive](https://github.com/SmockingArt/Archive)
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 
 ---
