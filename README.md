@@ -29,10 +29,6 @@
 
 ## <div align="center">💻 Skills 💻</div>
 
-<div align="left">
-  <img src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/Competence3.0.png" height="155" width="277" alt="Cyberpunk Banner">
-</div>
-
 <table>
 <tr>
 <td>
