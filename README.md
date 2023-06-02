@@ -15,7 +15,9 @@
 ## <div align="center">🏗️ My projects 🏗️ (╯°□°）╯︵ ┻━┻</div>
 
 
-- Obsidian 
+| [Sommaire](#) | [Code](#) | [Obsidian](#)[Code](#) | [Self-Learning](#) | [Book](#) | [Archive](#)
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| 📘 | 💎 | 💻 | 🎓 | 📕 | 🗂️ |
 
 ---
 
