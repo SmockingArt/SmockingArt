@@ -18,9 +18,9 @@ Mes projet
 ## 🌐 Connect with me 📬
 
 📬 @mail : 
-
+Smockingart#7330
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="30" width="40" /></a>
-</p> : Smockingart#7330
+</p> 
 
 <a href="https://www.linkedin.com/in/smocking-art-5a2505254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smocking-art-5a2505254/" height="30" width="40" /></a> 
 
