@@ -9,8 +9,6 @@
  Web3 and its ecosystem is a fast-evolving technology that opens up a wide range of possibilities in different fields. As an apprentice in the Web3 world, I keep abreast of trends and prospects in this technology, and actively apply my knowledge through real-world projects. I'm committed to continuous learning and strive to deepen my Web3 skills every day.
 <div align="center">
 
-  <img align="right" src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/ordinateur%20cyb.png" height="155" width="150" alt="Computeur">
-
   ## <div align="left">🏗️ My projects 🏗️</div>
 
 
@@ -28,7 +26,7 @@
 </div>
 <div>
    
-<img align="right" src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/kisspng-shadowrun-cyberpunk-2020-helicopter-dragon-5b2d947b3e19d4.0915351015297137872544.png" height="130" width="200" alt="Helicopter">
+  <img align="right" src="https://github.com/SmockingArt/SmockingArt/blob/main/Images/ordinateur%20cyb.png" height="155" width="150" alt="Computeur">
 
 </div>
 <br />
